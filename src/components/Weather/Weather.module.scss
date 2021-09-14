@@ -1,0 +1,16 @@
+.weatherContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  text-align: left;
+  margin: 20px auto 0 auto;
+  overflow-x: auto;
+  width: 100vw;
+}
+
+.weatherItem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
